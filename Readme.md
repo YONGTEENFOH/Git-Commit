@@ -24,7 +24,7 @@ gh repo create [name-of-your-repo] --public --source=. --push
 
 #The --source=. flag specifies the local directory to use as the source, and --push automatically pushes your local commits to the new remote. 
 
-git remote add origin https://github.com/YONGTEENFOH/Git-Commit
+git remote add origin1 https://github.com/YONGTEENFOH/Git-Commit
 
 git push --set-upstream origin1 master
 
