@@ -1,6 +1,8 @@
 How to git commit with specific date
-1. Create a local folder in desktop
-2. open the the folder in vscode
-3. 
-4.
-5. git commit --date='2025-11-01' -m 'editing readme file'
+#Create a local folder in desktop
+#open the the folder in vscode
+#login to github from vscode
+git init
+git add .
+git commit --date='2025-11-01' -m 'editing readme file'
+git push
